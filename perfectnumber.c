@@ -2,6 +2,7 @@
 #include<stdio.h>
 #include<conio.h>
 void main(){
+	// for example 6 is 1+2+3 
 	int n,i=1,sum=0;
 	printf("Please Enter the number\n");
 	scanf("%d",&n);
